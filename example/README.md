@@ -67,7 +67,7 @@ $ java -jar target/opcua-server-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
 - *client*
 ```shell
-$ java -jar target/opcua-server-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+$ java -jar target/opcua-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
    ![client_1](../documents/readme_images/client_1.png)
   
